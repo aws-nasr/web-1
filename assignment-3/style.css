@@ -1,0 +1,89 @@
+#image-one
+{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    
+
+}
+body {
+    font-family: 'Cairo', sans-serif;
+    background-color: #FAF3E0;
+    color: #5D4037;
+    line-height: 1.6;
+    font-size: 20px;
+}
+#image-2
+{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 220px;
+    right: 80px;
+}
+#image-3
+{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 220px;
+    right: 100px;
+}
+#image-4
+{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 220px;
+    right: 100px;
+}
+#art1
+{
+    line-height: 1.6;
+}
+
+#header-1
+{
+    
+    text-align: center;
+    font-size: 40px;
+}
+#one
+{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 1.6;
+}
+#nav1
+{
+    width: 80%;
+    border: 2px solid black;
+    padding: 20px;
+}
+#u-list2
+{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+}
+#u-list2 li
+{
+    display: inline;
+}
+#u-list2 a
+{
+    text-decoration: none;
+    padding: 10px 15px;
+    color: #000;
+    background-color: #5D4037;
+    border-radius: 5px;
+}
+#u-list1 a
+{
+    text-decoration: none;
+    padding: 10px 15px;
+    color: #000;
+}
+
